@@ -15,7 +15,7 @@ Now run the command to get help on the "docker build" command
 Which tag has the following text? - *Write the image ID to the file* 
 
 - `--imageid string`
-- `--iidfile string`
+- `--iidfile string` - This one
 - `--idimage string`
 - `--idfile string`
 
@@ -28,7 +28,7 @@ How many python packages/modules are installed?
 
 - 1
 - 6
-- 3
+- 3 - This (pip, setuptools, and wheel)
 - 7
 
 # Prepare Postgres
