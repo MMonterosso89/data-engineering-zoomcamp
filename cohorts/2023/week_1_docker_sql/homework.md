@@ -54,7 +54,7 @@ Tip: started and finished on 2019-01-15.
 Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in the format timestamp (date and hour+min+sec) and not in date.
 
 - 20689
-- 20530
+- 20530 - This is closest
 - 17630
 - 21090
 
@@ -65,7 +65,7 @@ Use the pick up time for your calculations.
 
 - 2019-01-18
 - 2019-01-28
-- 2019-01-15
+- 2019-01-15 - This one 118 miles jebuz
 - 2019-01-10
 
 ## Question 5. The number of passengers
