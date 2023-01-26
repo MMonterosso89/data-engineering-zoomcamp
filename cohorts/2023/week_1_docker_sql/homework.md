@@ -54,7 +54,7 @@ Tip: started and finished on 2019-01-15.
 Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in the format timestamp (date and hour+min+sec) and not in date.
 
 - 20689
-- 20530 - This is closest
+- 20530 - This one
 - 17630
 - 21090
 
@@ -74,7 +74,7 @@ In 2019-01-01 how many trips had 2 and 3 passengers?
  
 - 2: 1282 ; 3: 266
 - 2: 1532 ; 3: 126
-- 2: 1282 ; 3: 254
+- 2: 1282 ; 3: 254 - closest?
 - 2: 1282 ; 3: 274
 
 
@@ -88,7 +88,7 @@ Note: it's not a typo, it's `tip` , not `trip`
 - Central Park
 - Jamaica
 - South Ozone Park
-- Long Island City/Queens Plaza
+- Long Island City/Queens Plaza - This!
 
 
 ## Submitting the solutions
